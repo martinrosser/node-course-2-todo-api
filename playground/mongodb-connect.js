@@ -1,4 +1,4 @@
-// Both of then are the same
+// Both of these are the same
 // const MongoClient = require('mongodb').MongoClient;
 const {MongoClient, ObjectID} = require('mongodb');
 
